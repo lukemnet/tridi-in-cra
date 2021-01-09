@@ -1,6 +1,6 @@
 # tridi-in-cra
 
-This is a sample project to demonstrate how to use [Tridi](https://github.com/lukemnet/tridi) inside a React app.
+This is a sample project to demonstrate how to use [Tridi](https://github.com/lukemnet/tridi) inside a React app bootstrapped with [create-react-app](https://create-react-app.dev/).
 
 ## Quick start
 
