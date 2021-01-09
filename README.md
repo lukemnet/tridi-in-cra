@@ -11,6 +11,8 @@ npm install
 npm start
 ```
 
+See [app.js](https://github.com/lukemnet/tridi-in-cra/blob/master/src/App.js) for an usage example.
+
 ## License
 
 Licensed under MIT License. See [LICENSE](https://github.com/lukemnet/tridi-in-cra/blob/master/LICENSE) for more information.
